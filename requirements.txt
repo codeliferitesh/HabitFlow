@@ -1,0 +1,5 @@
+# HabitFlow Titanium V1.0 Dependencies
+matplotlib>=3.7.0
+win10toast>=0.9
+
+pip install -r requirements.txt
